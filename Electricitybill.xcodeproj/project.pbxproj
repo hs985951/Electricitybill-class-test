@@ -7,21 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9BAFDC64211CE7C7005BA455 /* ele.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BAFDC63211CE7C7005BA455 /* ele.png */; };
+		9BAFDC66211CE831005BA455 /* how-to-save-energy-costs.e0f21fae4027.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BAFDC65211CE831005BA455 /* how-to-save-energy-costs.e0f21fae4027.png */; };
+		9BAFDC68211CE8BF005BA455 /* images.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BAFDC67211CE8BE005BA455 /* images.png */; };
+		9BAFDC6A211CE90B005BA455 /* Mickey_Welcome.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BAFDC69211CE90B005BA455 /* Mickey_Welcome.png */; };
+		9BAFDC6C211CE9B4005BA455 /* villain.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9BAFDC6B211CE9B4005BA455 /* villain.gif */; };
+		9BC4C35F21220D5F002210F6 /* img_23991.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BC4C35E21220D5F002210F6 /* img_23991.png */; };
+		9BC4C36121220D64002210F6 /* 2000px-Mars_symbol.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BC4C36021220D64002210F6 /* 2000px-Mars_symbol.svg.png */; };
+		9BC4C36321220EEA002210F6 /* 1-2-calculator-png-clipart.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BC4C36221220EEA002210F6 /* 1-2-calculator-png-clipart.png */; };
+		9BC4C36521220FC0002210F6 /* userlogin.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BC4C36421220FC0002210F6 /* userlogin.png */; };
+		9BC4C36721220FC6002210F6 /* user-exit-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BC4C36621220FC6002210F6 /* user-exit-512.png */; };
 		D32C2DE3211B9D60008089AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32C2DE2211B9D60008089AC /* AppDelegate.swift */; };
-		D32C2DE5211B9D60008089AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32C2DE4211B9D60008089AC /* ViewController.swift */; };
+		D32C2DE5211B9D60008089AC /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32C2DE4211B9D60008089AC /* SplashViewController.swift */; };
 		D32C2DE8211B9D60008089AC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D32C2DE6211B9D60008089AC /* Main.storyboard */; };
 		D32C2DEA211B9D62008089AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D32C2DE9211B9D62008089AC /* Assets.xcassets */; };
 		D32C2DED211B9D62008089AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D32C2DEB211B9D62008089AC /* LaunchScreen.storyboard */; };
+		D32C2DF7211BA049008089AC /* electricityimage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D32C2DF6211BA049008089AC /* electricityimage.jpg */; };
+		D32C2DF9211BA639008089AC /* LoginScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32C2DF8211BA639008089AC /* LoginScreenViewController.swift */; };
+		D32C2DFB211BACD7008089AC /* ElectricityBillViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32C2DFA211BACD7008089AC /* ElectricityBillViewController.swift */; };
+		D32C2DFD211BACF9008089AC /* BillDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32C2DFC211BACF9008089AC /* BillDetailViewController.swift */; };
+		D32C2E02211BCEB0008089AC /* ElectricityBill.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32C2E01211BCEB0008089AC /* ElectricityBill.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9BAFDC63211CE7C7005BA455 /* ele.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ele.png; sourceTree = "<group>"; };
+		9BAFDC65211CE831005BA455 /* how-to-save-energy-costs.e0f21fae4027.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "how-to-save-energy-costs.e0f21fae4027.png"; sourceTree = "<group>"; };
+		9BAFDC67211CE8BE005BA455 /* images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = images.png; sourceTree = "<group>"; };
+		9BAFDC69211CE90B005BA455 /* Mickey_Welcome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mickey_Welcome.png; sourceTree = "<group>"; };
+		9BAFDC6B211CE9B4005BA455 /* villain.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = villain.gif; sourceTree = "<group>"; };
+		9BC4C35E21220D5F002210F6 /* img_23991.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_23991.png; sourceTree = "<group>"; };
+		9BC4C36021220D64002210F6 /* 2000px-Mars_symbol.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2000px-Mars_symbol.svg.png"; sourceTree = "<group>"; };
+		9BC4C36221220EEA002210F6 /* 1-2-calculator-png-clipart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1-2-calculator-png-clipart.png"; sourceTree = "<group>"; };
+		9BC4C36421220FC0002210F6 /* userlogin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = userlogin.png; sourceTree = "<group>"; };
+		9BC4C36621220FC6002210F6 /* user-exit-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "user-exit-512.png"; sourceTree = "<group>"; };
 		D32C2DDF211B9D60008089AC /* Electricitybill.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Electricitybill.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D32C2DE2211B9D60008089AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D32C2DE4211B9D60008089AC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D32C2DE4211B9D60008089AC /* SplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
 		D32C2DE7211B9D60008089AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D32C2DE9211B9D62008089AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D32C2DEC211B9D62008089AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D32C2DEE211B9D62008089AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D32C2DF6211BA049008089AC /* electricityimage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = electricityimage.jpg; sourceTree = "<group>"; };
+		D32C2DF8211BA639008089AC /* LoginScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreenViewController.swift; sourceTree = "<group>"; };
+		D32C2DFA211BACD7008089AC /* ElectricityBillViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElectricityBillViewController.swift; sourceTree = "<group>"; };
+		D32C2DFC211BACF9008089AC /* BillDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BillDetailViewController.swift; sourceTree = "<group>"; };
+		D32C2E01211BCEB0008089AC /* ElectricityBill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElectricityBill.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +65,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9BAFDC62211CE78D005BA455 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9BAFDC65211CE831005BA455 /* how-to-save-energy-costs.e0f21fae4027.png */,
+				9BAFDC63211CE7C7005BA455 /* ele.png */,
+				9BAFDC69211CE90B005BA455 /* Mickey_Welcome.png */,
+				9BAFDC6B211CE9B4005BA455 /* villain.gif */,
+				9BAFDC67211CE8BE005BA455 /* images.png */,
+				9BC4C35E21220D5F002210F6 /* img_23991.png */,
+				9BC4C36021220D64002210F6 /* 2000px-Mars_symbol.svg.png */,
+				9BC4C36221220EEA002210F6 /* 1-2-calculator-png-clipart.png */,
+				9BC4C36421220FC0002210F6 /* userlogin.png */,
+				9BC4C36621220FC6002210F6 /* user-exit-512.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
 		D32C2DD6211B9D60008089AC = {
 			isa = PBXGroup;
 			children = (
@@ -54,14 +101,28 @@
 		D32C2DE1211B9D60008089AC /* Electricitybill */ = {
 			isa = PBXGroup;
 			children = (
+				9BAFDC62211CE78D005BA455 /* images */,
+				D32C2E00211BCE98008089AC /* Models */,
 				D32C2DE2211B9D60008089AC /* AppDelegate.swift */,
-				D32C2DE4211B9D60008089AC /* ViewController.swift */,
+				D32C2DE4211B9D60008089AC /* SplashViewController.swift */,
 				D32C2DE6211B9D60008089AC /* Main.storyboard */,
 				D32C2DE9211B9D62008089AC /* Assets.xcassets */,
+				D32C2DF6211BA049008089AC /* electricityimage.jpg */,
 				D32C2DEB211B9D62008089AC /* LaunchScreen.storyboard */,
 				D32C2DEE211B9D62008089AC /* Info.plist */,
+				D32C2DF8211BA639008089AC /* LoginScreenViewController.swift */,
+				D32C2DFA211BACD7008089AC /* ElectricityBillViewController.swift */,
+				D32C2DFC211BACF9008089AC /* BillDetailViewController.swift */,
 			);
 			path = Electricitybill;
+			sourceTree = "<group>";
+		};
+		D32C2E00211BCE98008089AC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D32C2E01211BCEB0008089AC /* ElectricityBill.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +183,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BC4C35F21220D5F002210F6 /* img_23991.png in Resources */,
+				9BAFDC64211CE7C7005BA455 /* ele.png in Resources */,
+				9BC4C36321220EEA002210F6 /* 1-2-calculator-png-clipart.png in Resources */,
+				D32C2DF7211BA049008089AC /* electricityimage.jpg in Resources */,
+				9BC4C36121220D64002210F6 /* 2000px-Mars_symbol.svg.png in Resources */,
+				9BAFDC6A211CE90B005BA455 /* Mickey_Welcome.png in Resources */,
 				D32C2DED211B9D62008089AC /* LaunchScreen.storyboard in Resources */,
+				9BAFDC6C211CE9B4005BA455 /* villain.gif in Resources */,
 				D32C2DEA211B9D62008089AC /* Assets.xcassets in Resources */,
+				9BAFDC68211CE8BF005BA455 /* images.png in Resources */,
 				D32C2DE8211B9D60008089AC /* Main.storyboard in Resources */,
+				9BC4C36721220FC6002210F6 /* user-exit-512.png in Resources */,
+				9BC4C36521220FC0002210F6 /* userlogin.png in Resources */,
+				9BAFDC66211CE831005BA455 /* how-to-save-energy-costs.e0f21fae4027.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +207,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D32C2DE5211B9D60008089AC /* ViewController.swift in Sources */,
+				D32C2E02211BCEB0008089AC /* ElectricityBill.swift in Sources */,
+				D32C2DE5211B9D60008089AC /* SplashViewController.swift in Sources */,
+				D32C2DFD211BACF9008089AC /* BillDetailViewController.swift in Sources */,
+				D32C2DFB211BACD7008089AC /* ElectricityBillViewController.swift in Sources */,
 				D32C2DE3211B9D60008089AC /* AppDelegate.swift in Sources */,
+				D32C2DF9211BA639008089AC /* LoginScreenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +358,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Electricitybill/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -299,6 +376,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Electricitybill/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
